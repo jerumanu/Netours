@@ -12,7 +12,7 @@
         // background-color: orangered;
         float: left;
         &:not(:last-child){
-         margin-right: $gutter-horizontal;   
+         margin-right: $gutter-horizontal; 
         }
     }
     
