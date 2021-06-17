@@ -372,7 +372,7 @@ body {
     transform: translateY(-4rem) scale(1);
     filter: blur(3px) brightness(80%); }
   .story:hover .story__image-2 {
-    transform: translatey(4rem) scale(1);
+    transform: translateY(-4rem) scale(1);
     filter: blur(3px) brightness(80%); }
 
 .bg-video {
