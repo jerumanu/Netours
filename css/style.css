@@ -414,7 +414,7 @@ body {
   margin-left: 2rem;
   margin-top: .7rem;
   display: block;
-  transition: all .2s; }
+  transition: all .3s; }
 
 .form__input:placeholder-shown + .form__label {
   opacity: 0;
